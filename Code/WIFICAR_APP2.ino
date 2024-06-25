@@ -13,7 +13,7 @@ String command;             //String to store app command state.
 int speedCar = 800;         // 400 - 1023.
 int speed_Coeff = 3;
 
-const char* ssid = "Make DIY";
+const char* ssid = "WIFI NAME";
 ESP8266WebServer server(80);
 
 void setup() {
