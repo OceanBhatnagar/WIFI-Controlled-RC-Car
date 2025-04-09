@@ -1,6 +1,6 @@
 # WiFi Controlled RC Car
 
-Welcome to the WiFi Controlled RC Car project repository! This project enables wireless control of an RC car using a mobile application. The car is powered by a NodeMCU ESP8266 microcontroller and controlled via commands sent over a WiFi network.
+Welcome to the WiFi Controlled RC Car project repository! This project enables wireless control of an RC car using a mobile application. The car is powered by a NodeMCU ESP8266 microcontroller and controlled via commands sent over a WiFi network.It was developed as part of the (Team i5 – IoT and Embedded Systems) Intel OneAPI Student Club at USAR, GGSIPU.
 
 ## Components Used
 - **NodeMCU ESP8266**
